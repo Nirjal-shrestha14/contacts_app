@@ -17,9 +17,9 @@ A Flutter application for managing contacts using **sqflite** as the local datab
 
 ## 🖼️ Screenshots
 
-| All Contacts                                   | Favorites                                 | Add Contact                                   | Edit Contact                      |
-|------------------------------------------------|-------------------------------------------|-----------------------------------------------|-----------------------------------|
-| ![All Contacts](assets/images/all_contact.png) | ![Favorites](assets/images/favorites.png) | ![Add Contact](assets/images/add_contact.png) | ![Edit Contact](edit_contact.png) |
+| All Contacts                                   | Favorites                                 | Add Contact                                   | Edit Contact                                    |
+|------------------------------------------------|-------------------------------------------|-----------------------------------------------|-------------------------------------------------|
+| ![All Contacts](assets/images/all_contact.png) | ![Favorites](assets/images/favorites.png) | ![Add Contact](assets/images/add_contact.png) | ![Edit Contact](assets/images/edit_contact.png) |
 
 ---
 
